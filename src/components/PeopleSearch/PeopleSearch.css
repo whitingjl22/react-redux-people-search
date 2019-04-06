@@ -1,0 +1,20 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.people-container {
+  min-height: 250px;
+  width: 250px;
+  border-style: solid;
+  margin-top: 20px;
+}
+
+.people-container li {
+  list-style-type: none;
+}
+
+.people-container button {
+  margin-left: 5px;
+}
